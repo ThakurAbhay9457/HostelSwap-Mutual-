@@ -38,6 +38,3 @@
 
 ---
 
-**Note:**
-- Use the JWT token in the `Authorization: Bearer <token>` header for protected routes.
-- The swap system uses in-memory storage for requests (for demo). For production, use a database. 
